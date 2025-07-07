@@ -1,6 +1,6 @@
 # 🌊 LIQUID-DISTORTION
 
-<h3>Interactive Liquid distortion effect using curtains.js</h3>
+<h3>Interactive Liquid distortion effect using <a href="https://www.curtainsjs.com/">curtains.js</a></h3>
 <hr>
 
 ## ⚓ LIVE DEMO
